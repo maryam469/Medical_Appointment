@@ -1,0 +1,1 @@
+I created a Conversational Medical Appointment Bot using Streamlit and LangChain with Groq API. The chatbot helps patients book appointments by asking for their details in a friendly conversation. It uses conversation memory so the bot remembers context, and it also saves chat history for later use.
